@@ -1,5 +1,3 @@
 This is a updated test, in another file :)
 
-Another update from Desktop
-
 Another update to the file
