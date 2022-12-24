@@ -3,3 +3,5 @@ This is a updated test, in another file :)
 Another update to the file
 
 Another One
+
+Another One ;)
